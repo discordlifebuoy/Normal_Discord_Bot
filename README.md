@@ -1,5 +1,5 @@
 # Normal Discord Bot
-Simple Discord bot, with discord.io library
+Normal Discord bot, with discord.js library
 
 Bot implementation steps:
 
